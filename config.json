@@ -1,0 +1,32 @@
+{
+    "modules": [
+        "auth/login",
+        "patient/patient_main_navigation",
+        "patient/patient_dashboard",
+        "patient/patient_doctor_detail",
+        "patient/patient_profile",
+        "patient/patient_doctor_list",
+        "patient/patient_lab_test_list",
+        "patient/patient_medical_treatment_list",
+        "patient/patient_order",
+        "patient/patient_order_detail",
+        "patient/patient_order_patient_data",
+        "patient/patient_order_payment",
+        "patient/patient_order_payment_detail",
+        "patient/patient_order_list",
+        "patient/patient_chat",
+        "doctor/doctor_main_navigation",
+        "doctor/doctor_dashboard",
+        "doctor/doctor_profile",
+        "doctor/"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "learning_mode": false,
+    "unfreezed": true,
+    "use_cubit": false,
+    "ignore_core_generator_for_directories": [
+        "lib/model",
+        "lib/models"
+    ]
+}
